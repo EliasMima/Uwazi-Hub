@@ -11,9 +11,9 @@ Uwazi Hub is a community crowdfunding application tailored for activism efforts 
 
 ## 🛠 Tech Stack
 - **Frontend:** React + Tailwind CSS
-- **Backend:** Node.js (optional) / Firebase / Blockchain (future)
+- **Backend:** 
 - **Styling:** Tailwind CSS
-- **Deployment:** Vercel / Netlify (optional)
+- **Deployment:** 
 
 ## 🚀 Getting Started
 
