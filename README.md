@@ -1,9 +1,12 @@
 # Uwazi Hub 🇰🇪
 
 Uwazi Hub is a community crowdfunding application tailored for activism efforts in Kenya. It promotes financial transparency, community trust, and impact-driven campaigns through decentralized tech.
-https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-56-53.png
-https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-57-34.png
-https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-57-50.png
+
+## 📸 Screenshots
+
+<img src="https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-56-53.png?raw=true" width="300"/>
+<img src="https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-57-34.png?raw=true" width="300"/>
+<img src="https://github.com/EliasMima/Uwazi-Hub/blob/main/Screenshot%20from%202025-06-12%2019-57-50.png?raw=true" width="300"/>
 ## 🌍 Features
 - ✅ Campaign creation & management
 - 💰 Secure contribution tracking
