@@ -8,7 +8,7 @@ import { recentDonations } from './data/donations';
 import { pillars } from './data/pillar';
 import { formatKsh,getProgressPercentage } from './utils/format';
 
-function App() {
+function UwaziHub() {
   const totalDonors = 1500; // Example total donors
   const totalRaised = 452000; // Example total raised amount
   const [activeTab, setActiveTab] = React.useState<string>('campaigns');
@@ -416,4 +416,4 @@ function App() {
   );
 }
 
-export default App;
+export default UwaziHub;
