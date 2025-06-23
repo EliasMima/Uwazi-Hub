@@ -136,6 +136,7 @@ function UwaziHub() {
       <div className="container mx-auto px-4">
         <div className="flex justify-center mb-8">
           <div className="bg-white rounded-lg p-1 shadow-md">
+          <div className="flex flex-col sm:flex-row">
             <button
               onClick={() => setActiveTab('campaigns')}
               className={`px-6 py-3 rounded-md font-medium transition ${
@@ -156,6 +157,7 @@ function UwaziHub() {
             >
               Uwazi (Transparency)
             </button>
+           </div> 
           </div>
         </div>
 
