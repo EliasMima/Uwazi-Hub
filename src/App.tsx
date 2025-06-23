@@ -3,7 +3,6 @@
 import React from 'react';
 import './App.css';
 import { Eye, ArrowRight, Phone, CheckCircle, Globe, Star } from 'lucide-react';
-import { Header } from './components/Header';
 import { campaigns } from './data/campaigns';
 import { recentDonations } from './data/donations';
 import { pillars } from './data/pillar';
